@@ -55,3 +55,6 @@ gem 'simple_form'
 
 # Add devise
 gem 'devise'
+
+# Add gem 'validate_url'
+gem 'validate_url'
