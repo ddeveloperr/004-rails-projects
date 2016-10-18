@@ -58,3 +58,6 @@ gem 'devise'
 
 # Add gem 'validate_url'
 gem 'validate_url'
+
+# Add nokogiri
+gem 'nokogiri'
